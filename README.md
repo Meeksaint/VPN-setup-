@@ -1,1 +1,1 @@
-# VPN-setup in Azure VM 
+# VPN-setup in Mircosoft Azure Virtual Machine 
